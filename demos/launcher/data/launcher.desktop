@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Aether Launcher
+Comment=Application Launcher for the Aether Desktop Environment
+Exec=launcher
+Icon=launcher
+Terminal=false
+Categories=System;
+Keywords=launcher;apps;search;
